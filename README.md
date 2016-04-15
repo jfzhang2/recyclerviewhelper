@@ -1,4 +1,4 @@
-# RecyclerViewHelper 
+# RecyclerViewHelper    [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.nisrulz/recyclerviewhelper/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.nisrulz/recyclerviewhelper) 
 
 RecyclerViewHelper provides the most common functions around recycler view like Swipe
  to dismiss, Drag and Drop, Divider in the ui, events for when item selected and when not 
