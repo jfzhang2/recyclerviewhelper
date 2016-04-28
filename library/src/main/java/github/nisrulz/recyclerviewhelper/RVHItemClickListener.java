@@ -1,4 +1,3 @@
-
 package github.nisrulz.recyclerviewhelper;
 
 import android.content.Context;
@@ -11,7 +10,7 @@ public class RVHItemClickListener implements RecyclerView.OnItemTouchListener {
     private OnItemClickListener mListener;
 
     public interface OnItemClickListener {
-        public void onItemClick(View view, int position);
+        void onItemClick(View view, int position);
     }
 
     GestureDetector mGestureDetector;

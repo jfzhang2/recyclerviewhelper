@@ -1,5 +1,3 @@
-
-
 package github.nisrulz.recyclerviewhelper;
 
 import android.content.Context;

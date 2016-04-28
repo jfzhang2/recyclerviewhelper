@@ -7,16 +7,9 @@ RecyclerViewHelper provides the most common functions around recycler view like 
 #Integration
 - RecyclerViewHelper is available in the MavenCentral, so getting it as simple as adding it as a dependency
 ```gradle
-compile 'com.github.nisrulz:recyclerviewhelper:1.0.0'
+compile 'com.github.nisrulz:recyclerviewhelper:23.3.0'
 ```
 
-
-
-NOTE : The library depends on recycler view functionality so make sure you include recyclerview 
- from the support library as a dependency to your app like 
-```gradle 
-compile 'com.android.support:recyclerview-v7:23.2.1'
-```
 
 #Usage
 + Implement the `RHVAdapter` in your recycler view adapter and `RHVViewHolder` in your ItemViewHolder 
@@ -128,7 +121,6 @@ Special Credits to Paul Burke and his [article](https://medium
 .com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.bk2e4q81b) which got me thinking 
 
 This library contains a modified version of his implementations of ItemTouchHelper.
-
 
 License
 =======
