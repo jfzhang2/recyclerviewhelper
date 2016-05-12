@@ -17,7 +17,6 @@ import github.nisrulz.recyclerviewhelper.RVHItemTouchHelperCallback;
 
 public class MainActivity extends AppCompatActivity {
 
-
     RecyclerView myrecyclerview;
     ArrayList<String> data;
     MyAdapter adapter;
